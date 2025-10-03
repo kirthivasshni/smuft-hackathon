@@ -1,0 +1,1 @@
+# use pip freeze > requirements.txt in the backend folder to add required dependencies into requirements.txt
